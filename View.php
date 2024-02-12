@@ -2,6 +2,7 @@
 /**
  * Calendar for ExpressionEngine
  *
+ * 
  * @package       Solspace:Calendar
  * @author        Solspace, Inc.
  * @copyright     Copyright (c) 2010-2021, Solspace, Inc.
